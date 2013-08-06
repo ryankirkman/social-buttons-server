@@ -49,7 +49,7 @@ You don't want to be hitting the social networks API's constantly so it would be
 
 In CloudFront just make sure you to inherit cache control directives from the server and enable query string forwarding.
 
-Eithr use your CloudFront url to access the API server or cname it with a custom domain of your choice.
+Either use your CloudFront url to access the API server or cname it with a custom domain of your choice.
 
 ## Cross domain
 
